@@ -1,0 +1,11 @@
+package idris-guessing-game
+-- バッケージ名
+
+-- ソースコードの場所
+sourcedir = src
+-- ビルドするモジュール
+modules = Main
+-- 生成する実行可能ファイルの名前
+executable = "guessing_game"
+-- エントリーポイント関数のあるモジュール
+main = Main
